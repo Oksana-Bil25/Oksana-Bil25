@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Oksana👋
 
-<!--
-**Oksana-Bil25/Oksana-Bil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About Me
+🌸 Learning to code and absolutely loving it!
+✨ Already familiar with: HTML, CSS, JavaScript
+⚡ Next steps: React + backend technologies
+🎯 Goal: become a confident FullStack Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack  
+JavaScript | TypeScript | Node.js | React | Next.js
+
+EcoTote — a project about eco-friendly bags and conscious consumption.
+Tech Stack: HTML5, SASS, JavaScript, Parcel.
+Role: Developer.
+Key Achievements: Implemented responsive layout, modal windows, and CSS transformations. Responsible for the overall project assembly and repository structure.
+
+Soft Skills
+
+Attentive – High precision in data handling and coding.
+Cooperative – Effective team player with professional communication skills.
+Punctual & Responsible – Strong self-discipline and reliability.
+Touch Typing – Proficient in the blind typing method (Ukrainian layout).
+
+Languages
+
+English: Elementary (Active Learner).
+Ukrainian: Native.
+
+
