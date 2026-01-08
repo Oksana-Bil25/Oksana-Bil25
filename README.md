@@ -12,8 +12,8 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 EcoTote — a project about eco-friendly bags and conscious consumption.
 Tech Stack: HTML5, SASS, JavaScript, Parcel.
-Role: Developer.
-Key Achievements: Implemented responsive layout, modal windows, and CSS transformations. Responsible for the overall project assembly and repository structure.
+Role: developer.
+Key Achievements: implemented responsive layout, modal windows, and CSS transformations. Responsible for the overall project assembly and repository structure.
 
 Soft Skills
 
